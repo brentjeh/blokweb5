@@ -206,10 +206,10 @@ Wat wel goed ging is dat de website natuurlijk af is. Ik heb veel geleerd, ik he
 
 hier screenshot(s) van je eindresultaat
  
-<img src="images/final_homepage1" width="375px" alt="homepage 1ste deel">
-<img src="images/final_homepage2" width="375px" alt="homepage 2de deel">
-<img src="images/final_homepage3" width="375px" alt="homepage 3de deel">
-<img src="images/final_colorpalette" width="375px" alt="color palette">
+<img src="images/final_homepage1.png" width="375px" alt="homepage 1ste deel">
+<img src="images/final_homepage2.png" width="375px" alt="homepage 2de deel">
+<img src="images/final_homepage3.png" width="375px" alt="homepage 3de deel">
+<img src="images/final_colorpalette.png" width="375px" alt="color palette">
 
 
 
